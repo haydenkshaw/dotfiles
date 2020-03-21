@@ -1,0 +1,2 @@
+# Exclude all files, only add files to git index using `git add filepath -f`
+*
