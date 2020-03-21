@@ -1,0 +1,12 @@
+# Documentation RuboCop configuration can be found here:
+# https://docs.rubocop.org/en/latest/configuration/
+
+require: rubocop-performance
+
+# Disable mandatory comments before class/module declarations
+Style/Documentation:
+  Enabled: false
+
+# https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/FrozenStringLiteralComment
+Style/FrozenStringLiteralComment:
+  Enabled: false

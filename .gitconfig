@@ -1,0 +1,11 @@
+[user]
+	name = Hayden Shaw
+	email = haydenkarlshaw@gmail.com
+
+[includeIf "gitdir/i:**/thestage/**"]
+	path = ~/.gitconfig.thestage
+
+[core]
+	ignorecase = true
+	eol = lf
+	autocrlf = false
