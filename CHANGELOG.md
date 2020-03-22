@@ -1,5 +1,9 @@
 # Changelog
 
+## 2020-03-22 changes
+- Added `.config/iterm2` to source control iTerm2 configuration
+- Amended `.editorconfig` to exclude Markdown from trailing white space trimming as it affects layout
+
 ## 2020-03-21 changes
 - Added `.hushlogin`. Existence of file silences MOTD/last-login message for new terminal
 - Added `.bash_profile` to source control SHELL config; PATH setup, aliases and RVM at the moment
