@@ -1,4 +1,10 @@
+# Prompt Statement One shows as pink and in format "current_directory$ "
+PS1="\[\e[35m\]\w$ \[\e[m\]"
+
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+
+# Enables ANSI colours for some programs e.g. ls
+export CLICOLOR=1
 
 export NODE_PATH=/usr/local/lib/node_modules
 

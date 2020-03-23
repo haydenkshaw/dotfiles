@@ -1,5 +1,8 @@
 # Changelog
 
+## 2020-03-23 changes
+- Amended `.bash_profile` to customise terminal PS1 and add colour to some commands e.g. `ls`
+
 ## 2020-03-22 changes
 - Added `.config/iterm2` to source control iTerm2 configuration
 - Amended `.editorconfig` to exclude Markdown from trailing white space trimming as it affects layout
