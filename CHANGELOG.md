@@ -1,5 +1,8 @@
 # Changelog
 
+## 2020-03-24 changes
+- Amended Sublime Text 3 settings to hide white space, and use a darker theme for all but Markdown
+
 ## 2020-03-23 changes
 - Amended `.bash_profile` to customise terminal PS1 and add colour to some commands e.g. `ls`
 
