@@ -1,5 +1,8 @@
 # Changelog
 
+## 2020-03-26 changes
+- Amended iTerm2 settings to have unlimited scroll back for terminal output
+
 ## 2020-03-24 changes
 - Amended Sublime Text 3 settings to hide white space, and use a darker theme for all but Markdown
 
