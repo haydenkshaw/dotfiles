@@ -1,4 +1,8 @@
 {
+	"added_words":
+	[
+		"Affino"
+	],
 	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
 	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - English/en_GB.dic",

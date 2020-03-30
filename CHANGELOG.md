@@ -1,5 +1,9 @@
 # Changelog
 
+## 2020-03-30 changes
+- Added .vimrc with configuration to turn Vim syntax highlighting on
+- Amended Sublime Text 3 settings to add 'Affino' to the dictionary
+
 ## 2020-03-26 changes
 - Amended iTerm2 settings to have unlimited scroll back for terminal output
 
