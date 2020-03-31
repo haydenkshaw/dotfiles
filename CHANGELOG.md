@@ -1,5 +1,8 @@
 # Changelog
 
+## 2020-03-31 changes
+- Amended iTerm2 settings so mouse scroll works in interactive programs e.g `less` or `vim`
+
 ## 2020-03-30 changes
 - Added .vimrc with configuration to turn Vim syntax highlighting on
 - Amended Sublime Text 3 settings to add 'Affino' to the dictionary
