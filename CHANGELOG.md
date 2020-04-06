@@ -1,10 +1,15 @@
-# Changelog
+# Change log
+
+## 2020-03-03 changes
+- Amended `.bash_profile` to add MacPorts and MacPorts QT5 to PATH variable
+- Amended iTerm2 settings, not sure what the changes functionality mean though
+- Amended Sublime Text 3 settings so project view doesn't show `tmp` directory
 
 ## 2020-03-31 changes
 - Amended iTerm2 settings so mouse scroll works in interactive programs e.g `less` or `vim`
 
 ## 2020-03-30 changes
-- Added .vimrc with configuration to turn Vim syntax highlighting on
+- Added `.vimrc` with configuration to turn Vim syntax highlighting on
 - Amended Sublime Text 3 settings to add 'Affino' to the dictionary
 
 ## 2020-03-26 changes
@@ -22,10 +27,10 @@
 
 ## 2020-03-21 changes
 - Added `.hushlogin`. Existence of file silences MOTD/last-login message for new terminal
-- Added `.bash_profile` to source control SHELL config; PATH setup, aliases and RVM at the moment
+- Added `.bash_profile` to source control SHELL configuration; PATH set up, aliases and RVM at the moment
 - Added `README.md` to provide useful information, dependency installation at the moment
-- Added `.rubocop.yml` so projects get Ruby linting even without project specific config
-- Added `.eslintrc` so projects get Airbnb JavaScript linting even without project specific config
+- Added `.rubocop.yml` so projects get Ruby linting even without project specific configuration
+- Added `.eslintrc` so projects get Airbnb JavaScript linting even without project specific configuration
 - Added `.editorconfig` for consistent rules between projects
 - Added Sublime Text configuration so it's set up is source controlled
 - Added separate git profiles for personal and work, correct one is used based on file path
