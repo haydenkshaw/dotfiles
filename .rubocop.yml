@@ -10,3 +10,8 @@ Style/Documentation:
 # https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Style/FrozenStringLiteralComment
 Style/FrozenStringLiteralComment:
   Enabled: false
+
+# Include .rake Rubocop checking too
+AllCops:
+  Include:
+    - '*.rake'
