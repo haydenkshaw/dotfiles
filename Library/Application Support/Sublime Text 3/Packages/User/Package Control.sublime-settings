@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"ANSIescape",
 		"Babel",
 		"EditorConfig",
 		"Package Control",

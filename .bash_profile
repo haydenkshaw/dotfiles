@@ -9,7 +9,6 @@ export CLICOLOR=1
 export NODE_PATH=/usr/local/lib/node_modules
 
 export PATH="/usr/local/opt/elasticsearch@5.6/bin:$PATH"
-export PATH="/Users/hayden/Library/Python/3.7/bin:$PATH" # Make aws-cli accessible
 export PATH="/Users/Shared/DBngin/mysql/8.0.19/bin:$PATH:$PATH"
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH" # Added by MacPorts
 export PATH="/opt/local/libexec/qt5/bin:$PATH" # Make qmake available

@@ -1,5 +1,9 @@
 # Change log
 
+## 2020-08-04 changes
+- Amended `.bash_profile` so aws-cli is not hard coded
+- Amended Sublime Text 3 settings so package ANSIescape installs and lets files with colour encoding be viewed in colour
+
 ## 2020-07-11 changes
 - Amended `.bash_profile` to use DBngin MySQL instead of Homebrew one on the PATH, add MacPorts packages to the PATH, add QT5's qmake to the PATH, add NVM configuration to the PATH and automatic NVM switching on cd
 - Amended Sublime Text 3 settings so `.byebug_hisdtory` file is excluded, folders `.bundle` and `build` are excluded, and additional 120 line ruler
