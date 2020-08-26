@@ -1,5 +1,11 @@
 # Change log
 
+## 2020-08-26 changes
+- Add Sublime Text 3 packages:
+  - `Highlight` for **Right-click -> Copy As RTF** capabilities
+  - `SublimeLinter-contrib-scss-lint` for automatic `scss-lint` .scss linting
+  - `Syntax Highlighting for Sass` for .scss syntax highlighting
+
 ## 2020-08-04 changes
 - Amended `.bash_profile` so aws-cli is not hard coded
 - Amended Sublime Text 3 settings so package ANSIescape installs and lets files with colour encoding be viewed in colour

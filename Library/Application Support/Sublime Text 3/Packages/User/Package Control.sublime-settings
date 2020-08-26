@@ -8,9 +8,12 @@
 		"ANSIescape",
 		"Babel",
 		"EditorConfig",
+		"Highlight",
 		"Package Control",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-eslint",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-rubocop",
+		"Syntax Highlighting for Sass"
 	]
 }
